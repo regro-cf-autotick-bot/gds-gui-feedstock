@@ -16,7 +16,7 @@ source:
     - 0001-Add-missing-TMath.h-include.patch
 
 build:
-  number: 6
+  number: 7
   skip: true  # [not linux64]
 
 outputs:
